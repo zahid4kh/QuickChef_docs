@@ -2,8 +2,6 @@
 
 _Last updated: 07/11/2024
 
-Welcome to Quick Chef! Your privacy is important to us. This Privacy Policy describes how we handle your information when you use our mobile application, Quick Chef, which provides personalized recipe suggestions based on the ingredients you have on hand. We use the Gemini Pro AI model to generate recipes and provide an option for users to sign in with their Google account. 
-
 **1. Information Collection and Use**
 
 * **Ingredients Input**  
